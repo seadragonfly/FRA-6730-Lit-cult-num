@@ -1,0 +1,22 @@
+{
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ],
+      "content": "Musée duras"
+    }
+  ],
+  "influenced_by": [
+    {
+      "id": "https://data.stage.org/works/od_2",
+      "type": "PropositionalObject",
+      "_label": "The show Musée duras as conceived by Julien Gosselin"
+    }
+  ]
+}

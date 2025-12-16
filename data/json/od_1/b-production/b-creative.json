@@ -1,0 +1,646 @@
+{
+  "part": [
+    {
+      "technique": [
+        {
+          "id": "https://id.loc.gov/vocabulary/relators/vdg",
+          "type": "Type",
+          "_label": "video"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/4b9c65b85ab144d0b09d6b30898ca06e",
+          "type": "Person",
+          "_label": "Pierre Martin Oriol",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "vidéo"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/982f848064104b68828714da4d9d8ffa",
+          "type": "Person",
+          "_label": "Jérémie Bernaert",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "vidéo"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/982f848064104b68828714da4d9d8ffa",
+          "type": "Person",
+          "_label": "Jérémie Bernaert",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "cadre vidéo"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/530f6dcdf7344446a98facfadeb15af5",
+          "type": "Person",
+          "_label": "Baudouin Rencurel",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "cadre vidéo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/msd",
+          "type": "Type",
+          "_label": "music"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/429c19bfdd6842cda643a802a31004f7",
+          "type": "Person",
+          "_label": "Guillaume Bachelé",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "musique"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/09bb51671559438f9d9d95c43028e043",
+          "type": "Person",
+          "_label": "Maxence Vandevelde",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "musique"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/sds",
+          "type": "Type",
+          "_label": "sound-design"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/b7979fcd8b544401aea2563c63ec0b23",
+          "type": "Person",
+          "_label": "Julien Feryn",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "son"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/drt",
+          "type": "Type",
+          "_label": "director"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/a3975fe2f4154b27ae815753e5c14313",
+          "type": "Person",
+          "_label": "Julien Gosselin",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "mise en scène"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/6e96b76a9ffd4565b211f380a289bc0b",
+          "type": "Person",
+          "_label": "Antoine Hespel",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "assistanat à la mise en scène"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/std",
+          "type": "Type",
+          "_label": "set-design"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/e9082cea584d440daffccd8371a74f3e",
+          "type": "Person",
+          "_label": "Lisetta Buccellato",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "scénographie"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/dfa3baf1d2334977839fa6965e0f2f8c",
+          "type": "Person",
+          "_label": "Guillaume Lepert",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "accessoires"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/trl",
+          "type": "Type",
+          "_label": "translation"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/1820e20689474da48f12270b66e26550",
+          "type": "Person",
+          "_label": "André Markowicz",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "traduction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "https://id.loc.gov/vocabulary/relators/act.html",
+          "type": "Type",
+          "_label": "actor"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/429c19bfdd6842cda643a802a31004f7",
+          "type": "Person",
+          "_label": "Guillaume Bachelé",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/0bd59f2a6b414fcc9ea13564bb68cbfb",
+          "type": "Person",
+          "_label": "Joseph Drouet",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/5f338bdd3fcc436e9888d2a79a1c2d77",
+          "type": "Person",
+          "_label": "Denis Eyriey",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/ce4bc285a5ac4f7e9e69f3acef35aa18",
+          "type": "Person",
+          "_label": "Carine Goron",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/14a8b0b03f6a4790b85b814b9f58eca1",
+          "type": "Person",
+          "_label": "Victoria Quesnel",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/502b6c069e0f4022ad912c5d1fabe4ec",
+          "type": "Person",
+          "_label": "Achille Reggiani",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/09bb51671559438f9d9d95c43028e043",
+          "type": "Person",
+          "_label": "Maxence Vandevelde",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/982f848064104b68828714da4d9d8ffa",
+          "type": "Person",
+          "_label": "Jérémie Bernaert",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/530f6dcdf7344446a98facfadeb15af5",
+          "type": "Person",
+          "_label": "Baudouin Rencurel",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/adp",
+          "type": "Type",
+          "_label": "adaptation"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/a3975fe2f4154b27ae815753e5c14313",
+          "type": "Person",
+          "_label": "Julien Gosselin",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "adaptation"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/8d6d3b1ff39a45c2924a8f9d9320ef1d",
+          "type": "Person",
+          "_label": "Eddy D’aranjo",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "dramaturgie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/lgd",
+          "type": "Type",
+          "_label": "lighting"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/c3f83bb9a6084c2089b36937b526e147",
+          "type": "Person",
+          "_label": "Nicolas Joubert",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "lumière"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/cst",
+          "type": "Type",
+          "_label": "costumes"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/8bd04cd0b1c34cf5b4c2065ad4f24b8c",
+          "type": "Person",
+          "_label": "Caroline Tavernier",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "costumes"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/e5410c26d36742068a07d2096b55bc71",
+          "type": "Person",
+          "_label": "Valérie Simmoneau",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "costumes"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/e9082cea584d440daffccd8371a74f3e",
+          "type": "Person",
+          "_label": "Lisetta Buccellato",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "masks"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/9aa122cc4ba94a6d8ae5e59b65a7df46",
+          "type": "Person",
+          "_label": "Salomé Vandendriessche",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "masks"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

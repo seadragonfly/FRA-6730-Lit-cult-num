@@ -1,0 +1,110 @@
+{
+  "part": [
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/pro",
+          "type": "Type",
+          "_label": "production"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/dd05776b8a614796a8406c88a3220714",
+          "type": "Group",
+          "_label": "Compagnie la llevantina",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "production"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/1e6ebd46f73e44afbbbe7fe5d39a70d7",
+          "type": "Group",
+          "_label": "Odéon théâtre de l’europe",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/d738cb5dde544207a941a5976a6c0d6b",
+          "type": "Group",
+          "_label": "Comédie de genève",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/e437f49303ac4cd288e9c84f08329943",
+          "type": "Group",
+          "_label": "Compagnie pallaksch pallaksch",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/b1fdccbe005341138e1749fc80129e46",
+          "type": "Group",
+          "_label": "Théâtre du beauvaisis — scène nationale",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

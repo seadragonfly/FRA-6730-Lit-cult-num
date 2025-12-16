@@ -1,0 +1,102 @@
+{
+  "part": [
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/pro",
+          "type": "Type",
+          "_label": "production"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/1e6ebd46f73e44afbbbe7fe5d39a70d7",
+          "type": "Group",
+          "_label": "Odéon théâtre de l’europe",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "production"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/59c49f172f6a453bad2db35aa72fc823",
+          "type": "Group",
+          "_label": "Conservatoire national supérieur d’art dramatique de paris",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "production"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/39f75fdb3b9f4d4294b3e811cabc08da",
+          "type": "Group",
+          "_label": "Si vous pouviez lécher mon cœur",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "production"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/fnd",
+          "type": "Type",
+          "_label": "funder"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/19a25fe16111416fb323faa99c13b2e4",
+          "type": "Group",
+          "_label": "Jeune théâtre national",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "aide"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

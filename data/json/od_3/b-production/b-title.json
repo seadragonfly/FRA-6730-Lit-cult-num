@@ -1,0 +1,22 @@
+{
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ],
+      "content": "Honda romance"
+    }
+  ],
+  "influenced_by": [
+    {
+      "id": "https://data.stage.org/works/od_3",
+      "type": "PropositionalObject",
+      "_label": "The show Honda romance as conceived by Vimala Pons"
+    }
+  ]
+}

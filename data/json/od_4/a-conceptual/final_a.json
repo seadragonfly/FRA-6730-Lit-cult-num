@@ -1,0 +1,127 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.stage.org/works/od_4",
+  "type": "PropositionalObject",
+  "_label": "Pallaksch pallaksch! as conceived by Marie-José Malis",
+  "classified_as": [
+    {
+      "id": "https://vocab.getty.edu/aat/300387357",
+      "type": "Type",
+      "_label": "works (general, creative)"
+    }
+  ],
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ],
+      "content": "Pallaksch pallaksch!",
+      "language": [
+        {
+          "id": "http://vocab.getty.edu/aat/300388306",
+          "type": "Language",
+          "label": "French"
+        }
+      ]
+    }
+  ],
+  "created_by": [
+    {
+      "type": "Creation",
+      "part": [
+        {
+          "type": "Production",
+          "technique": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300404387",
+              "type": "Type",
+              "_label": "Creating"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/a84d2fdd920e4ce5a60ab7f736d54595",
+              "type": "Person",
+              "_label": "Marie-José Malis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "influenced_by": [
+    {
+      "id": "https://data.stage.org/text/La Coccinelle",
+      "type": "LinguisticObject",
+      "_label": "La Coccinelle de D. H. Lawrence",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300410356",
+          "type": "Type",
+          "_label": "Adaptation"
+        }
+      ]
+    },
+    {
+      "id": "https://data.stage.org/text/Le Voile de Pierrette",
+      "type": "LinguisticObject",
+      "_label": "Le Voile de Pierrette de D. H. Lawrence",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300410356",
+          "type": "Type",
+          "_label": "Adaptation"
+        }
+      ]
+    },
+    {
+      "id": "https://data.stage.org/text/Lettres du Voyageur à son Retour",
+      "type": "LinguisticObject",
+      "_label": "Lettres du Voyageur à son Retour de D. H. Lawrence",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300410356",
+          "type": "Type",
+          "_label": "Adaptation"
+        }
+      ]
+    }
+  ],
+  "timespan": {
+    "type": "TimeSpan",
+    "_label": "2025",
+    "begin_of_the_begin": "2025-01-01T00:00:00Z"
+  },
+  "attributed_by": [
+    {
+      "type": "AttributeAssignment",
+      "identified_by": [
+        {
+          "type": "Type",
+          "id": "https://vocab.getty.edu/aat/300027216",
+          "_label": "show programme",
+          "classified_as": [
+            {
+              "id": "https://vocab.getty.edu/aat/300311936",
+              "type": "Type",
+              "_label": "primary source"
+            }
+          ]
+        }
+      ],
+      "assigned_property": "takes_information_from",
+      "assigned": [
+        {
+          "type": "HumanMadeObject",
+          "id": "https://data.stage.org/programs/programme de saison Odéon 25/26",
+          "_label": "programme de saison Odéon 25/26"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "took_place_at": [
+    {
+      "id": "https://data.stage.org/auth/odeon",
+      "type": "Place",
+      "_label": "Odéon Paris",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300121919",
+          "type": "Type",
+          "_label": "performing arts structures"
+        }
+      ],
+      "part": [
+        {
+          "type": "Place",
+          "_label": "Odéon paris 6",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300449028",
+              "type": "Type",
+              "_label": "performance halls"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

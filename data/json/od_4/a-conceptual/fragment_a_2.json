@@ -1,0 +1,40 @@
+{
+  "influenced_by": [
+    {
+      "id": "https://data.stage.org/text/La Coccinelle",
+      "type": "LinguisticObject",
+      "_label": "La Coccinelle de D. H. Lawrence",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300410356",
+          "type": "Type",
+          "_label": "Adaptation"
+        }
+      ]
+    },
+    {
+      "id": "https://data.stage.org/text/Le Voile de Pierrette",
+      "type": "LinguisticObject",
+      "_label": "Le Voile de Pierrette de D. H. Lawrence",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300410356",
+          "type": "Type",
+          "_label": "Adaptation"
+        }
+      ]
+    },
+    {
+      "id": "https://data.stage.org/text/Lettres du Voyageur à son Retour",
+      "type": "LinguisticObject",
+      "_label": "Lettres du Voyageur à son Retour de D. H. Lawrence",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300410356",
+          "type": "Type",
+          "_label": "Adaptation"
+        }
+      ]
+    }
+  ]
+}

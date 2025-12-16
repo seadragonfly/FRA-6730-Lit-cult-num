@@ -1,0 +1,26 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.stage.org/prod/od_4",
+  "type": "Activity",
+  "_label": "Pallaksch pallaksch!",
+  "classified_as": [
+    {
+      "id": "https://vocab.getty.edu/aat/300069200",
+      "type": "Type",
+      "_label": "Performances (creative events)",
+      "classified_as": [
+        {
+          "id": "https://vocab.getty.edu/aat/300417582",
+          "type": "Type",
+          "_label": "Theater (genre)"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "type": "Production",
+      "part": []
+    }
+  ]
+}

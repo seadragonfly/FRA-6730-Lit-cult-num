@@ -1,0 +1,57 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.stage.org/works/od_2",
+  "type": "PropositionalObject",
+  "_label": "Musée duras as conceived by Julien Gosselin",
+  "classified_as": [
+    {
+      "id": "https://vocab.getty.edu/aat/300387357",
+      "type": "Type",
+      "_label": "works (general, creative)"
+    }
+  ],
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ],
+      "content": "Musée duras",
+      "language": [
+        {
+          "id": "http://vocab.getty.edu/aat/300388306",
+          "type": "Language",
+          "label": "French"
+        }
+      ]
+    }
+  ],
+  "created_by": [
+    {
+      "type": "Creation",
+      "part": [
+        {
+          "type": "Production",
+          "technique": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300404387",
+              "type": "Type",
+              "_label": "Creating"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/a3975fe2f4154b27ae815753e5c14313",
+              "type": "Person",
+              "_label": "Julien Gosselin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

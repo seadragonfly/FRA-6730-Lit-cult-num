@@ -1,0 +1,34 @@
+{
+  "timespan": {
+    "type": "TimeSpan",
+    "_label": "2025",
+    "begin_of_the_begin": "2025-01-01T00:00:00Z"
+  },
+  "attributed_by": [
+    {
+      "type": "AttributeAssignment",
+      "identified_by": [
+        {
+          "type": "Type",
+          "id": "https://vocab.getty.edu/aat/300027216",
+          "_label": "show programme",
+          "classified_as": [
+            {
+              "id": "https://vocab.getty.edu/aat/300311936",
+              "type": "Type",
+              "_label": "primary source"
+            }
+          ]
+        }
+      ],
+      "assigned_property": "takes_information_from",
+      "assigned": [
+        {
+          "type": "HumanMadeObject",
+          "id": "https://data.stage.org/programs/programme de saison Odéon 25/26",
+          "_label": "programme de saison Odéon 25/26"
+        }
+      ]
+    }
+  ]
+}

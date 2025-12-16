@@ -1,0 +1,96 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.stage.org/works/od_2",
+  "type": "PropositionalObject",
+  "_label": "Musée duras as conceived by Julien Gosselin",
+  "classified_as": [
+    {
+      "id": "https://vocab.getty.edu/aat/300387357",
+      "type": "Type",
+      "_label": "works (general, creative)"
+    }
+  ],
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ],
+      "content": "Musée duras",
+      "language": [
+        {
+          "id": "http://vocab.getty.edu/aat/300388306",
+          "type": "Language",
+          "label": "French"
+        }
+      ]
+    }
+  ],
+  "created_by": [
+    {
+      "type": "Creation",
+      "part": [
+        {
+          "type": "Production",
+          "technique": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300404387",
+              "type": "Type",
+              "_label": "Creating"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/a3975fe2f4154b27ae815753e5c14313",
+              "type": "Person",
+              "_label": "Julien Gosselin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "influenced_by": [
+    {
+      "id": "https://data.stage.org/auth/7bc46980d3d14d8f8ad133069806ee11",
+      "type": "Person",
+      "_label": "Marguerite Duras"
+    }
+  ],
+  "timespan": {
+    "type": "TimeSpan",
+    "_label": "2025",
+    "begin_of_the_begin": "2025-01-01T00:00:00Z"
+  },
+  "attributed_by": [
+    {
+      "type": "AttributeAssignment",
+      "identified_by": [
+        {
+          "type": "Type",
+          "id": "https://vocab.getty.edu/aat/300027216",
+          "_label": "show programme",
+          "classified_as": [
+            {
+              "id": "https://vocab.getty.edu/aat/300311936",
+              "type": "Type",
+              "_label": "primary source"
+            }
+          ]
+        }
+      ],
+      "assigned_property": "takes_information_from",
+      "assigned": [
+        {
+          "type": "HumanMadeObject",
+          "id": "https://data.stage.org/programs/programme de saison Odéon 25/26",
+          "_label": "programme de saison Odéon 25/26"
+        }
+      ]
+    }
+  ]
+}

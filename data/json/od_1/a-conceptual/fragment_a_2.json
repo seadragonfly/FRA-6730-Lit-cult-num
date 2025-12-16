@@ -1,0 +1,16 @@
+{
+  "influenced_by": [
+    {
+      "id": "https://data.stage.org/text/Ékatérina Ivanovna",
+      "type": "LinguisticObject",
+      "_label": "Ékatérina Ivanovna de Léonid Andréïev",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300410356",
+          "type": "Type",
+          "_label": "Adaptation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "part": [
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/pro",
+          "type": "Type",
+          "_label": "production"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/6c44b74329e741fbba44dcec4493eb46",
+          "type": "Group",
+          "_label": "Si vous pouviez lécher mon coeur",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "production"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/1e6ebd46f73e44afbbbe7fe5d39a70d7",
+          "type": "Group",
+          "_label": "Odéon théâtre de l’europe",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/58541a3f036341c992d1026f7e04b395",
+          "type": "Group",
+          "_label": "Le phénix — scène nationale de valenciennes pôle européen de création",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/8f9c2fd441724510bd9b5760203b73b3",
+          "type": "Group",
+          "_label": "Théâtre national de strasbourg",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/46afae63a7044786b1047881bdaf2c27",
+          "type": "Group",
+          "_label": "Théâtre du nord — centre dramatique national lille tourcoing hauts-de-france",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/9ea99b53c7564a35a4a89c51d33a5718",
+          "type": "Group",
+          "_label": "Célestins — théâtre de lyon",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/8a2c5573a15c43859b7db6538955ea47",
+          "type": "Group",
+          "_label": "Théâtre national populaire",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/c4f19bb654d34664840b5f0d617cc6d9",
+          "type": "Group",
+          "_label": "Maison de la culture d’amiens",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/c4fec56322e841929d2cd7dbc11f6174",
+          "type": "Group",
+          "_label": "L’empreinte — scène nationale brive-tulle",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/ed4129872eac4ac1960dc45de0797425",
+          "type": "Group",
+          "_label": "Château rouge — scène conventionnée à annemasse",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/d738cb5dde544207a941a5976a6c0d6b",
+          "type": "Group",
+          "_label": "Comédie de genève",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/fa372ac98b2947668416742fd59ba035",
+          "type": "Group",
+          "_label": "Wiesbaden biennale",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/d17225bb90834548abfc09ee132766d1",
+          "type": "Group",
+          "_label": "La passerelle — scène nationale de saint-brieuc",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/0ce4a3af40eb4a95aa7691b79039b906",
+          "type": "Group",
+          "_label": "Scène nationale d’albi",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/acb0ab080c1c486b9c01c1296a893794",
+          "type": "Group",
+          "_label": "Romaeurop",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/spn",
+          "type": "Type",
+          "_label": "sponsor"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/ab2ae5c7853548239674fbc3668cad2a",
+          "type": "Group",
+          "_label": "Ministère de la culture",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "soutien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/fnd",
+          "type": "Type",
+          "_label": "funder"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/59ae1bab01944400bb8e5a7d17ecb958",
+          "type": "Group",
+          "_label": "Montévidéo — centre d’art",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "aide"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/3c0f25865a3440ec832cd038659c9a4f",
+          "type": "Group",
+          "_label": "T2g théâtre de gennevilliers",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "aide"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/19a25fe16111416fb323faa99c13b2e4",
+          "type": "Group",
+          "_label": "Jeune théâtre national",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "aide"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

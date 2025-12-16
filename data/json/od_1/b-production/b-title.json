@@ -1,0 +1,22 @@
+{
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ],
+      "content": "Le passé"
+    }
+  ],
+  "influenced_by": [
+    {
+      "id": "https://data.stage.org/works/od_1",
+      "type": "PropositionalObject",
+      "_label": "The show Le passé as conceived by Julien Gosselin"
+    }
+  ]
+}

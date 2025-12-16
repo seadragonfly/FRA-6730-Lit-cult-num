@@ -1,0 +1,347 @@
+{
+  "part": [
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/sds",
+          "type": "Type",
+          "_label": "sound-design"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/5032cc394a9344179f0fea9181e5022f",
+          "type": "Person",
+          "_label": "Solal Mazeran",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "son"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/drt",
+          "type": "Type",
+          "_label": "director"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/a84d2fdd920e4ce5a60ab7f736d54595",
+          "type": "Person",
+          "_label": "Marie-José Malis",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "mise en scène"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/std",
+          "type": "Type",
+          "_label": "set-design"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/8655abdf570346ff9dcf61dbfa7e1d74",
+          "type": "Person",
+          "_label": "Jessy Ducatillon",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "espaces"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/73e5c1dffcdb4a5eafc1e2b54042ae4a",
+          "type": "Person",
+          "_label": "Adrien Marès",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "espaces"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/a84d2fdd920e4ce5a60ab7f736d54595",
+          "type": "Person",
+          "_label": "Marie-José Malis",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "espaces"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "https://id.loc.gov/vocabulary/relators/act.html",
+          "type": "Type",
+          "_label": "actor"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/c69b86e87f764d06bb599aeb917c058f",
+          "type": "Person",
+          "_label": "Pascal Batigne",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/9436fdcbdd6c43738fd8e1a8e0e69bd8",
+          "type": "Person",
+          "_label": "Juan Crespillo",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/e8fd3dc419b5405482becc2f1aaf8376",
+          "type": "Person",
+          "_label": "Sylvia Etcheto",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/c1c226dbc44d4d44869c081196d7fadd",
+          "type": "Person",
+          "_label": "Olivier Horeau",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/1ef3a48693b948ebb6cc89e70e445120",
+          "type": "Person",
+          "_label": "Isabel Oed",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "avec"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/lgd",
+          "type": "Type",
+          "_label": "lighting"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/8655abdf570346ff9dcf61dbfa7e1d74",
+          "type": "Person",
+          "_label": "Jessy Ducatillon",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "lumière"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/cst",
+          "type": "Type",
+          "_label": "costumes"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/c69b86e87f764d06bb599aeb917c058f",
+          "type": "Person",
+          "_label": "Pascal Batigne",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "costumes"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/c69b86e87f764d06bb599aeb917c058f",
+          "type": "Person",
+          "_label": "Pascal Batigne",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "masks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/mka",
+          "type": "Type",
+          "_label": "make-up"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/c69b86e87f764d06bb599aeb917c058f",
+          "type": "Person",
+          "_label": "Pascal Batigne",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "maquillages"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "part": [
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/pro",
+          "type": "Type",
+          "_label": "production"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/b0e61de3b3894e978426991d949dd54b",
+          "type": "Group",
+          "_label": "Tout ça / que ça",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "production"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/d738cb5dde544207a941a5976a6c0d6b",
+          "type": "Group",
+          "_label": "Comédie de genève",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "production"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/1e6ebd46f73e44afbbbe7fe5d39a70d7",
+          "type": "Group",
+          "_label": "Odéon théâtre de l’europe",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/d58c05f5778f4cd68c2467c633d66e96",
+          "type": "Group",
+          "_label": "Mc2 : maison de la culture de grenoble — scène nationale",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/9a35dc0c411f4f6882525d6ae2e2143a",
+          "type": "Group",
+          "_label": "Les nuits de fourvière — festival international de la métropole de lyon",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/b56d224fd33b4f83acd7627657810789",
+          "type": "Group",
+          "_label": "Festival d’automne",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/7fd0f6045f784c3a824548b628442d6f",
+          "type": "Group",
+          "_label": "Centre dramatique national de tours — théâtre olympia",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/b825b62a35374d399d31c75543d99347",
+          "type": "Group",
+          "_label": "Malraux scène nationale chambéry savoie",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/6f182555534b445b9e2d2e33c7b7eee4",
+          "type": "Group",
+          "_label": "Le lieu unique — nantes",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/9f2bcb2a97044a88961f55e2f9763ab3",
+          "type": "Group",
+          "_label": "Centre dramatique national orléans / centre-val de loire",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/548a15f1363c44708d1df598bc1f0b3b",
+          "type": "Group",
+          "_label": "Centquatre — paris",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/d047acabf70c497aa8de60572f1beec8",
+          "type": "Group",
+          "_label": "Les halles de schaerbeek — bruxelles",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/2eabfa7586f24fe9802dd82d6247ee16",
+          "type": "Group",
+          "_label": "3 bisf centre d’arts contemporains arts vivants & arts visuels — aix-en-provence",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/bbce76be146d455a9f354a6eace6824e",
+          "type": "Group",
+          "_label": "Miroirs étendus",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "coproduction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/spn",
+          "type": "Type",
+          "_label": "sponsor"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/efd422bebb7a41b39302b529703eff5e",
+          "type": "Group",
+          "_label": "Fondation bnp paribas",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "soutien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "technique": [
+        {
+          "id": "http://id.loc.gov/vocabulary/relators/fnd",
+          "type": "Type",
+          "_label": "funder"
+        }
+      ],
+      "carried_out_by": [
+        {
+          "id": "https://data.stage.org/auth/c3a3fd173f4a4be6bd1b9e43e59cfeef",
+          "type": "Group",
+          "_label": "\"plateforme 2 pôles cirque en normandie — la brèche à cherbourg",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "aide"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/07b4d636d8a647f3bd66c075cc346c66",
+          "type": "Group",
+          "_label": "Villa belleville — paris",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "aide"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/ae1cfead3d7c479a9b8a76006d09dc2e",
+          "type": "Group",
+          "_label": "La ménagerie de verre dans le cadre du dispositif studiolab",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "aide"
+            }
+          ]
+        },
+        {
+          "id": "https://data.stage.org/auth/a35f3ef9148049dc879f5c684627263e",
+          "type": "Group",
+          "_label": "Mc2 : maison de la culture de grenoble — scène nationale\"",
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "_label": "role as appears in doc",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/page/aat/300435423",
+                  "type": "Type",
+                  "_label": "Literal transcription"
+                }
+              ],
+              "content": "aide"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
