@@ -20,7 +20,509 @@
   "produced_by": [
     {
       "type": "Production",
-      "part": []
+      "part": [
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/sds",
+              "type": "Type",
+              "_label": "sound-design"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/5032cc394a9344179f0fea9181e5022f",
+              "type": "Person",
+              "_label": "Solal Mazeran",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "son"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/drt",
+              "type": "Type",
+              "_label": "director"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/a84d2fdd920e4ce5a60ab7f736d54595",
+              "type": "Person",
+              "_label": "Marie-José Malis",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "mise en scène"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/std",
+              "type": "Type",
+              "_label": "set-design"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/8655abdf570346ff9dcf61dbfa7e1d74",
+              "type": "Person",
+              "_label": "Jessy Ducatillon",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "espaces"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/73e5c1dffcdb4a5eafc1e2b54042ae4a",
+              "type": "Person",
+              "_label": "Adrien Marès",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "espaces"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/a84d2fdd920e4ce5a60ab7f736d54595",
+              "type": "Person",
+              "_label": "Marie-José Malis",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "espaces"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "https://id.loc.gov/vocabulary/relators/act.html",
+              "type": "Type",
+              "_label": "actor"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/c69b86e87f764d06bb599aeb917c058f",
+              "type": "Person",
+              "_label": "Pascal Batigne",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/9436fdcbdd6c43738fd8e1a8e0e69bd8",
+              "type": "Person",
+              "_label": "Juan Crespillo",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/e8fd3dc419b5405482becc2f1aaf8376",
+              "type": "Person",
+              "_label": "Sylvia Etcheto",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/c1c226dbc44d4d44869c081196d7fadd",
+              "type": "Person",
+              "_label": "Olivier Horeau",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/1ef3a48693b948ebb6cc89e70e445120",
+              "type": "Person",
+              "_label": "Isabel Oed",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/lgd",
+              "type": "Type",
+              "_label": "lighting"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/8655abdf570346ff9dcf61dbfa7e1d74",
+              "type": "Person",
+              "_label": "Jessy Ducatillon",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "lumière"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/cst",
+              "type": "Type",
+              "_label": "costumes"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/c69b86e87f764d06bb599aeb917c058f",
+              "type": "Person",
+              "_label": "Pascal Batigne",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "costumes"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/c69b86e87f764d06bb599aeb917c058f",
+              "type": "Person",
+              "_label": "Pascal Batigne",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "masks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/mka",
+              "type": "Type",
+              "_label": "make-up"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/c69b86e87f764d06bb599aeb917c058f",
+              "type": "Person",
+              "_label": "Pascal Batigne",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "maquillages"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/pro",
+              "type": "Type",
+              "_label": "production"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/dd05776b8a614796a8406c88a3220714",
+              "type": "Group",
+              "_label": "Compagnie la llevantina",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "production"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/1e6ebd46f73e44afbbbe7fe5d39a70d7",
+              "type": "Group",
+              "_label": "Odéon théâtre de l’europe",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/d738cb5dde544207a941a5976a6c0d6b",
+              "type": "Group",
+              "_label": "Comédie de genève",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/e437f49303ac4cd288e9c84f08329943",
+              "type": "Group",
+              "_label": "Compagnie pallaksch pallaksch",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/b1fdccbe005341138e1749fc80129e46",
+              "type": "Group",
+              "_label": "Théâtre du beauvaisis — scène nationale",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ],
+      "content": "Pallaksch pallaksch!"
+    }
+  ],
+  "influenced_by": [
+    {
+      "id": "https://data.stage.org/works/od_4",
+      "type": "PropositionalObject",
+      "_label": "The show Pallaksch pallaksch! as conceived by Marie-José Malis"
+    }
+  ],
+  "took_place_at": [
+    {
+      "id": "https://data.stage.org/auth/odeon",
+      "type": "Place",
+      "_label": "Odéon Paris",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300121919",
+          "type": "Type",
+          "_label": "performing arts structures"
+        }
+      ],
+      "part": [
+        {
+          "type": "Place",
+          "_label": "Petit odéon paris 6",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300449028",
+              "type": "Type",
+              "_label": "performance halls"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "timespan": {
+    "type": "TimeSpan",
+    "begin_of_the_begin": "2025-11-26T00:00:00Z",
+    "end_of_the_end": "2026-02-14T00:00:00Z"
+  }
 }

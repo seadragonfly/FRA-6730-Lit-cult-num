@@ -1,0 +1,1134 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.stage.org/prod/od_3",
+  "type": "Activity",
+  "_label": "Honda romance",
+  "classified_as": [
+    {
+      "id": "https://vocab.getty.edu/aat/300069200",
+      "type": "Type",
+      "_label": "Performances (creative events)",
+      "classified_as": [
+        {
+          "id": "https://vocab.getty.edu/aat/300417582",
+          "type": "Type",
+          "_label": "Theater (genre)"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "type": "Production",
+      "part": [
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/msd",
+              "type": "Type",
+              "_label": "music"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/dafeeb1f982f4280b5f43d34e61f4317",
+              "type": "Person",
+              "_label": "Tsirihaka Harrivel",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "composition musicale"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/cfcacd3acc694ff4baf4e0c502575c4e",
+              "type": "Person",
+              "_label": "DMRA",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "composition musicale du satellite"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/f627552bc2774966b003546254423976",
+              "type": "Person",
+              "_label": "Rebeka Warrior",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "composition musicale du Choeur"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/6ee514a21e1640548fe7683b505c4de4",
+              "type": "Person",
+              "_label": "Fiona Monbet",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "collaboration artistique pour la direction, l’adaptation et l’arrangement musical"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/d4a5564774a6428593c88f9bd2443b4d",
+              "type": "Person",
+              "_label": "Romain Louveau / Miroirs Étendus",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "collaboration artistique pour la direction, l’adaptation et l’arrangement musical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/sds",
+              "type": "Type",
+              "_label": "sound-design"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/5861cb5305c143e9ae8cc066922887ae",
+              "type": "Person",
+              "_label": "Anaëlle Marsollier",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "son"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/drt",
+              "type": "Type",
+              "_label": "director"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/550a3cbb645d4586af49fb7724667f1c",
+              "type": "Person",
+              "_label": "Vimala Pons",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "mise en scène"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/dafeeb1f982f4280b5f43d34e61f4317",
+              "type": "Person",
+              "_label": "Tsirihaka Harrivel",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "collaboration conception et mise en scène"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/std",
+              "type": "Type",
+              "_label": "set-design"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/cdc7e32db02e45098937ffd724e98f3c",
+              "type": "Person",
+              "_label": "Benjamin Bertrand",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "recherche scénographique"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/71202e47fc0546e9b00afac6f5df9f2b",
+              "type": "Person",
+              "_label": "Marion Flament",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "recherche scénographique"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/550a3cbb645d4586af49fb7724667f1c",
+              "type": "Person",
+              "_label": "Vimala Pons",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "recherche scénographique"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/71202e47fc0546e9b00afac6f5df9f2b",
+              "type": "Person",
+              "_label": "Marion Flament",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "regard scénographique"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/tcd",
+              "type": "Type",
+              "_label": "technical-director"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/5e4b6441fb754dfeb1514118db19fe32",
+              "type": "Person",
+              "_label": "Marc Chevillon",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "régie générale"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "https://id.loc.gov/vocabulary/relators/act.html",
+              "type": "Type",
+              "_label": "actor"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/e3e7d04bc9354b7889b3ec4079068474",
+              "type": "Person",
+              "_label": "Sabianka Bencsik",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/fad1ee07d52a4ee5a5c885f14835018e",
+              "type": "Person",
+              "_label": "Joseph Decange",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/839e8e9c7dd144ecbaee969dc76132f8",
+              "type": "Person",
+              "_label": "Océane Deweirder",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/442528c9d8244421a31c67d55596c637",
+              "type": "Person",
+              "_label": "François Gardeil",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/8eb61db800904f758faa189f6e140174",
+              "type": "Person",
+              "_label": "Myriam Jarmache",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/6e8c174a265740c18073d00a9d93213b",
+              "type": "Person",
+              "_label": "Flor Paichard",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/550a3cbb645d4586af49fb7724667f1c",
+              "type": "Person",
+              "_label": "Vimala Pons",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/7e745978d0ff4d4aa289b73d02a4de1b",
+              "type": "Person",
+              "_label": "Firoozeh Raeesdana",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/8eef8907ac5d4966a5deb39f85cf2cd3",
+              "type": "Person",
+              "_label": "Vic Requier",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/14894a60a31a45e69ce6797daece6754",
+              "type": "Person",
+              "_label": "Léa Trommenschlager",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "avec"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/lgd",
+              "type": "Type",
+              "_label": "lighting"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/f0841d6bec4b4f95a82cf4340d1cd3c1",
+              "type": "Person",
+              "_label": "Arnaud Pierrel",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "lumière"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/cst",
+              "type": "Type",
+              "_label": "costumes"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/4d6ed6ed596b481c93309e7c606388a5",
+              "type": "Person",
+              "_label": "Marie La Rocca",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "costumes"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/1b3de307bfc14878bf26b958e49fc433",
+              "type": "Person",
+              "_label": "Anne Tesson",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "assistanat aux costumes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/csl",
+              "type": "Type",
+              "_label": "collaboration"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/a5db9e99f50849008c4bc9fb3484a245",
+              "type": "Person",
+              "_label": "Emeline Hervé",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "collaboration artistique"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/oth",
+              "type": "Type",
+              "_label": "other"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/5676f63c00ec47f6acc3ab36193428cf",
+              "type": "Person",
+              "_label": "Charlotte Wallet",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "confection du satellite"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/f4f310cf74504ff3b93c4cedfcdc4ec5",
+              "type": "Person",
+              "_label": "François Philippi",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "créateur des souffleurs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/pro",
+              "type": "Type",
+              "_label": "production"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/b0e61de3b3894e978426991d949dd54b",
+              "type": "Group",
+              "_label": "Tout ça / que ça",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "production"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/d738cb5dde544207a941a5976a6c0d6b",
+              "type": "Group",
+              "_label": "Comédie de genève",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "production"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/1e6ebd46f73e44afbbbe7fe5d39a70d7",
+              "type": "Group",
+              "_label": "Odéon théâtre de l’europe",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/d58c05f5778f4cd68c2467c633d66e96",
+              "type": "Group",
+              "_label": "Mc2 : maison de la culture de grenoble — scène nationale",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/9a35dc0c411f4f6882525d6ae2e2143a",
+              "type": "Group",
+              "_label": "Les nuits de fourvière — festival international de la métropole de lyon",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/b56d224fd33b4f83acd7627657810789",
+              "type": "Group",
+              "_label": "Festival d’automne",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/7fd0f6045f784c3a824548b628442d6f",
+              "type": "Group",
+              "_label": "Centre dramatique national de tours — théâtre olympia",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/b825b62a35374d399d31c75543d99347",
+              "type": "Group",
+              "_label": "Malraux scène nationale chambéry savoie",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/6f182555534b445b9e2d2e33c7b7eee4",
+              "type": "Group",
+              "_label": "Le lieu unique — nantes",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/9f2bcb2a97044a88961f55e2f9763ab3",
+              "type": "Group",
+              "_label": "Centre dramatique national orléans / centre-val de loire",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/548a15f1363c44708d1df598bc1f0b3b",
+              "type": "Group",
+              "_label": "Centquatre — paris",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/d047acabf70c497aa8de60572f1beec8",
+              "type": "Group",
+              "_label": "Les halles de schaerbeek — bruxelles",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/2eabfa7586f24fe9802dd82d6247ee16",
+              "type": "Group",
+              "_label": "3 bisf centre d’arts contemporains arts vivants & arts visuels — aix-en-provence",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/bbce76be146d455a9f354a6eace6824e",
+              "type": "Group",
+              "_label": "Miroirs étendus",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "coproduction"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/spn",
+              "type": "Type",
+              "_label": "sponsor"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/efd422bebb7a41b39302b529703eff5e",
+              "type": "Group",
+              "_label": "Fondation bnp paribas",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "soutien"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "technique": [
+            {
+              "id": "http://id.loc.gov/vocabulary/relators/fnd",
+              "type": "Type",
+              "_label": "funder"
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "https://data.stage.org/auth/c3a3fd173f4a4be6bd1b9e43e59cfeef",
+              "type": "Group",
+              "_label": "\"plateforme 2 pôles cirque en normandie — la brèche à cherbourg",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "aide"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/07b4d636d8a647f3bd66c075cc346c66",
+              "type": "Group",
+              "_label": "Villa belleville — paris",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "aide"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/ae1cfead3d7c479a9b8a76006d09dc2e",
+              "type": "Group",
+              "_label": "La ménagerie de verre dans le cadre du dispositif studiolab",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "aide"
+                }
+              ]
+            },
+            {
+              "id": "https://data.stage.org/auth/a35f3ef9148049dc879f5c684627263e",
+              "type": "Group",
+              "_label": "Mc2 : maison de la culture de grenoble — scène nationale\"",
+              "referred_to_by": [
+                {
+                  "type": "LinguisticObject",
+                  "_label": "role as appears in doc",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/page/aat/300435423",
+                      "type": "Type",
+                      "_label": "Literal transcription"
+                    }
+                  ],
+                  "content": "aide"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Title"
+        }
+      ],
+      "content": "Honda romance"
+    }
+  ],
+  "influenced_by": [
+    {
+      "id": "https://data.stage.org/works/od_3",
+      "type": "PropositionalObject",
+      "_label": "The show Honda romance as conceived by Vimala Pons"
+    }
+  ],
+  "took_place_at": [
+    {
+      "id": "https://data.stage.org/auth/odeon",
+      "type": "Place",
+      "_label": "Odéon Paris",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/page/aat/300121919",
+          "type": "Type",
+          "_label": "performing arts structures"
+        }
+      ],
+      "part": [
+        {
+          "type": "Place",
+          "_label": "Odéon paris 6",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/page/aat/300449028",
+              "type": "Type",
+              "_label": "performance halls"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "timespan": {
+    "type": "TimeSpan",
+    "begin_of_the_begin": "2025-10-14T00:00:00Z",
+    "end_of_the_end": "2025-10-26T00:00:00Z"
+  }
+}
