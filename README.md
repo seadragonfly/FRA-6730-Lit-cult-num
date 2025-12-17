@@ -9,8 +9,10 @@ Ma proposation de modélisation d'un spectacle théâtral (lire [ici](performanc
 
 
 
-### dec. 2025 - Projet final :  
+### dec. 2025 - Projet final : Vers un modèle de l'événement théâtrale
 
+
+(description)
 
 
 ```
@@ -51,10 +53,8 @@ FRA-6730/
 ```
 
 
-Les quatres spectacles séléctionés sont modéliser dans 
-a-final, b-final and a c show for each date.
+Les quatre spectacles sélectionnés sont d’abord modélisés dans un tableau Excel, puis représentés au moyen de multiples objets JSON.
 
-table for
 | id   | événement                     | excel                  | json                                   |
 |------|-------------------------------|------------------------|----------------------------------------|
 | od_1 | Le Passé à Odéon               | clean_csv (row[0])     | a-final & b-final & multiple c          |
