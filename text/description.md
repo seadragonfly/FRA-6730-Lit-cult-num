@@ -160,16 +160,16 @@ Suivant cette logique, nous obtenons un tableau Excel avec quatre lignes et 53 c
 
 La transcription du programme dans un tableau Excel n’était qu’une étape préparatoire à l’implémentation du modèle formel, qui est prend la forme d'une structure textuelle en format JSON. Les informations stockées dans chacune des colonnes doivent ensuite être interconnectées au moyen d’un ensemble de relations. Le modèle formel appliqué dans cet exercice suit le schéma Linked Art (voir [figure 5.1](#figure-5.1)) qui propose un ensemble de relations permettant de relier une *activity* (événement) à des objets ou à des entités. Pour implémenter le modèle conceptuel, la production B (de type *activity*) est reliée à l’œuvre A (de type *propositional_object*) au moyen de la relation *influenced_by*, tandis que chaque représentation C (également de type *activity*) est reliée à la production B par la relation *part_of*.
 
-Sans décrire l’ensemble des structures et des relations du modèle formel, on peut en donner un aperçu en nottant que des objets tels que *timespan* sont détaillés au sein de la structure ; les entités peuvent être reliées à des bases de données externes, comme l’[ISNI](https://isni.org) ; chaque information peut être classifiée au moyen de vocabulaires contrôlés, comme celui du [Getty](https://www.getty.edu/research/tools/vocabularies/aat/) ; le champ *content* correspond à un texte libre dans lequel l’information originale issue du programme est conservée ; et, enfin, le champ *_label* est une étiquette destinée à faciliter la lecture et la compréhension de la structure par l’utilisateur, sans toutefois porter de valeur sémantique (voir la [figure 5.3](#figure-5.3), l’exemple de la *création vidéo* du spectacle *Le Passé*). 
+Sans décrire l’ensemble des structures et des relations du modèle formel, on peut en donner un aperçu en nottant que des objets tels que *timespan* sont détaillés au sein de la structure ; les entités peuvent être reliées à des bases de données externes, comme l’[ISNI](https://isni.org) ; chaque information peut être classifiée au moyen de vocabulaires contrôlés, comme celui du [Getty](https://www.getty.edu/research/tools/vocabularies/aat/) ; le champ *content* correspond à un texte libre dans lequel l’information originale issue du programme est conservée ; et, enfin, le champ *_label* est une étiquette destinée à faciliter la lecture et la compréhension de la structure par l’utilisateur, sans toutefois porter de valeur sémantique (voir la [figure 5.4](#figure-5.4), l’exemple de la *création vidéo* du spectacle *Le Passé*). 
 
 <a id="figure-5.1"></a>
 <p align="center">
-  <img src="../assets/images/linkedArt.png" width="60%">
+  <img src="../assets/images/linkedArt.png" width="65%">
 </p>
 
 *Figure 5.1 : Modèle général proposé par Linked Art pour décrire une activité.*
 
-Dans cette étude de cas, la transformation du fichier Excel vers le format JSON a été faite au moyen d’une série de [scripts Python](../scripts/) écrits spécifiquement pour le Théâtre de l’Odéon. Les fichiers JSON décrivant les quatre spectacles de l’Odéon (voir [figure 5.2](#figure-5.2)) sont accessibles [ici](../data/json/). Il faut noter que l’objet A et la production B existent dans un seul fichier (*a-final* et *b-final*), alors que chaque date est associée à un fichier JSON C.
+Dans cette étude de cas, la transformation du fichier Excel vers le format JSON a été faite au moyen d’une série de [scripts Python](../scripts/) écrits spécifiquement pour le Théâtre de l’Odéon. Les fichiers JSON décrivant les quatre spectacles de l’Odéon (voir [figure 5.2](#figure-5.2)) sont accessibles [ici](../data/json/). Il faut noter que l’objet A et la production B existent dans un seul fichier (*a-final* et *b-final*), alors que chaque date est associée à un fichier JSON C. Enfin, chaque fichier JSON donne lieu à une visualization en format de graph qui permet de mieux étudier l'événement (voir figure [figure 5.3](#figure-5.3)).
 
 
 
@@ -185,6 +185,15 @@ Dans cette étude de cas, la transformation du fichier Excel vers le format JSON
 
 
 <a id="figure-5.3"></a>
+<p align="center">
+  <img src="../assets/images/viz.png" width="100%">
+</p>
+
+*Figure 5.3 : Le fichier a-finale pour  <span style="font-style: normal;">Le Passé</span>, visualisé comme un graphe. Pour cet exercice, l’outil en ligne [JSONcrack](jsoncrack.com) a été utilisé ; une transformation personnalisée entre JSON et graphe pourrait toutefois être implémentée à l’aide d’un simple script Python. Cette visualisation n’est présentée ici qu’à titre d’exemple.*
+
+
+
+<a id="figure-5.4"></a>
 ```json
 {
   "produced_by": [
@@ -227,13 +236,13 @@ Dans cette étude de cas, la transformation du fichier Excel vers le format JSON
 }
 ```
 
-*Figure 5.3 : Extrait du modèle représentant la création vidéo dans <span style="font-style: normal;">Le Passé</span>. Cette structure pourrait être « lue » ainsi : L’artiste Raphaël Oriol (https://data.stage.org/auth/a2b71b4a31ab463cadfccc15a45e9cf6) a « réalisé » la technique vidéo (https://id.loc.gov/vocabulary/relators/vdg), laquelle fait partie de la production de l’œuvre <span style="font-style: normal;">Le Passé</span>, et la transcription littérale de son rôle, telle qu’elle apparaît dans le programme, est « régie vidéo ».*
+*Figure 5.4 : Extrait du modèle représentant la création vidéo dans <span style="font-style: normal;">Le Passé</span>. Cette structure pourrait être « lue » ainsi : L’artiste Raphaël Oriol (https://data.stage.org/auth/a2b71b4a31ab463cadfccc15a45e9cf6) a « réalisé » la technique vidéo (https://id.loc.gov/vocabulary/relators/vdg), laquelle fait partie de la production de l’œuvre <span style="font-style: normal;">Le Passé</span>, et la transcription littérale de son rôle, telle qu’elle apparaît dans le programme, est « régie vidéo ».*
 
-Ce modèle formel permet de conserver l’information originale tout en la classifiant selon des catégories prédéfinies, ce qui rend possibles des requêtes automatiques. Toutefois, l’implémentation du modèle pose encore quelques problèmes. Par exemple, la structure actuelle permet de récupérer les noms et les URI de l’ensemble des personnes impliquées dans une tâche créative, mais la hiérarchie entre ces personnes n’est présente qu’implicitement, à travers le texte libre stocké dans le champ *content*. Il devient dès lors impossible de distinguer automatiquement les collaborateurs « assistants » des artistes « principaux » de la *création vidéo*. Ce problème peut être partiellement résolu par une adaptation du modèle existant, en mobilisant la structure *classified_as* associée au terme Getty [assistants](https://vocab.getty.edu/aat/300025898) (voir cette proposition dans la [figure 5.4](#figure-5.4)). Cette solution demeure toutefois limitée par l'exhaustivité des vocabulaires contrôlés, qui n’ont pas été conçus spécifiquement pour les arts de la scène. Pour que le modèle puisse refléter un plus grand nombre de catégories professionnelles, ces vocabulaires contrôlés devraient donc être enrichis.
+Ce modèle formel permet de conserver l’information originale tout en la classifiant selon des catégories prédéfinies, ce qui rend possibles des requêtes automatiques. Toutefois, l’implémentation du modèle pose encore quelques problèmes. Par exemple, la structure actuelle permet de récupérer les noms et les URI de l’ensemble des personnes impliquées dans une tâche créative, mais la hiérarchie entre ces personnes n’est présente qu’implicitement, à travers le texte libre stocké dans le champ *content*. Il devient dès lors impossible de distinguer automatiquement les collaborateurs « assistants » des artistes « principaux » de la *création vidéo*. Ce problème peut être partiellement résolu par une adaptation du modèle existant, en mobilisant la structure *classified_as* associée au terme Getty [assistants](https://vocab.getty.edu/aat/300025898) (voir cette proposition dans la [figure 5.5](#figure-5.5)). Cette solution demeure toutefois limitée par l'exhaustivité des vocabulaires contrôlés, qui n’ont pas été conçus spécifiquement pour les arts de la scène. Pour que le modèle puisse refléter un plus grand nombre de catégories professionnelles, ces vocabulaires contrôlés devraient donc être enrichis.
 
 Deuxièmement, et de manière plus générale, le modèle implique la création d’index référentiels pour documenter les entités nommées et les œuvres. Il en résulte un système complexe, qui n’est pas autonome mais interconnecté avec différentes bases de données externes, elles-mêmes devant être maintenues et mises à jour. Il existe ainsi un risque de perte d’information si les alignements ne sont pas corrects ou si une base de données externe devient obsolète. Dans le cas de l’Odéon, nous avons généré deux index référentiels « internes » qui pourraient ensuite générer des fichiers JSON individuels pour chaque personne ou institution, avec leur propre URI, toujours selon le schéma Linked Art. Toutefois, dans une implémentation complète, il serait nécessaire de générer une structure interne ou d’aligner chaque entité concernée avec une source externe : personnes, lieux, institutions, œuvres culturelles, productions théâtrales, représentations, ainsi que les documents littéraires servant de sources. La pérennité et l’efficacité de ce modèle dépendent donc directement de la maintenance et de l’exhaustivité des sources externes, qu’il s’agisse de vocabulaires contrôlés ou de bases de données.
 
-<a id="figure-5.4"></a>
+<a id="figure-5.5"></a>
 ```json
 {
   "technique": [
@@ -273,7 +282,7 @@ Deuxièmement, et de manière plus générale, le modèle implique la création 
   ]
 }
 ```
-*Figure 5.4 : Proposition pour adapter le modèle formel avec l'addition de <span style="font-style: normal;">classified_by</span> pour préciser le rôle d'assistant de Alice de la Bouillerie*
+*Figure 5.5 : Proposition pour adapter le modèle formel avec l'addition de <span style="font-style: normal;">classified_by</span> pour préciser le rôle d'assistant de Alice de la Bouillerie*
 
 
 
