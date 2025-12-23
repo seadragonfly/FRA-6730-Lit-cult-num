@@ -169,7 +169,7 @@ Sans décrire l’ensemble des structures et des relations du modèle formel, on
 
 *Figure 5.1 : Modèle général proposé par Linked Art pour décrire une activité.*
 
-Dans cette étude de cas, la transformation du fichier Excel vers le format JSON a été faite au moyen d’une série de [scripts Python](../scripts/) écrits spécifiquement pour le Théâtre de l’Odéon. Les fichiers JSON décrivant les quatre spectacles de l’Odéon (voir [figure 5.2](#figure-5.2)) sont accessibles [ici](../data/json/).
+Dans cette étude de cas, la transformation du fichier Excel vers le format JSON a été faite au moyen d’une série de [scripts Python](../scripts/) écrits spécifiquement pour le Théâtre de l’Odéon. Les fichiers JSON décrivant les quatre spectacles de l’Odéon (voir [figure 5.2](#figure-5.2)) sont accessibles [ici](../data/json/). Il faut noter que l’objet A et la production B existent dans un seul fichier (*a-final* et *b-final*), alors que chaque date est associée à un fichier JSON C.
 
 
 
