@@ -5,14 +5,6 @@ Ce dépôt contient l'ensemble des documents et figures liés au séminaire FRA6
 
 ---
 
-### oct. 2025 - proposition de projet de semestre
-
-Ma proposation de modélisation d'un spectacle théâtral (lire [ici](performance-théâtre/projet-performance-pitch.md)), s’appuie sur des idées développées au sein du projet [STAGE](https://stage-to-data.huma-num.fr/) au cours de la première année de mon doctorat à l’Université Rennes 2. Ce [travail](https://github.com/stage-to-data/linked-art-pa) collectif est en cours, et je propose de travailler sur un projet existant, pour mieux comprendre les enjeux théoriques et sociopolitiques liés aux choix, simplifications et présupposés qu’implique notre modélisation, que je pourrais ensuite intégrer à ma thèse. Pourtant, je me demande si ce projet correspond bien aux enjeux du séminaire, puisqu'on cherche à modéliser un « événement » et le « choix » du modèle est déjà fait, même s'il s'agit d'un modèle ouvert que je peux toujours modifier.
-
-
----
-
-
 ### dec. 2025 - Projet final : vers un modèle de l'événement théâtral
 
 Ce git contient une étude de cas qui cherche à implémenter un modèle de l'*événement théâtral* tel qu’il est actuellement développé au sein du projet STAGE et dans le cadre de ma thèse. Cette étude de cas porte sur le Théâtre de l’Odéon à Paris et, plus spécifiquement, utilise les informations issues du programme de saison afin de modéliser quatre de ses spectacles. Le format final du modèle prend la forme d’une collection de fichiers JSON par spectacle.
@@ -66,6 +58,18 @@ FRA-6730/
 └── requirements.txt
 ```
 *La structure du git.*
+
+---
+
+
+
+### oct. 2025 - proposition de projet de semestre
+
+Ma proposation de modélisation d'un spectacle théâtral (lire [ici](performance-théâtre/projet-performance-pitch.md)), s’appuie sur des idées développées au sein du projet [STAGE](https://stage-to-data.huma-num.fr/) au cours de la première année de mon doctorat à l’Université Rennes 2. Ce [travail](https://github.com/stage-to-data/linked-art-pa) collectif est en cours, et je propose de travailler sur un projet existant, pour mieux comprendre les enjeux théoriques et sociopolitiques liés aux choix, simplifications et présupposés qu’implique notre modélisation, que je pourrais ensuite intégrer à ma thèse. Pourtant, je me demande si ce projet correspond bien aux enjeux du séminaire, puisqu'on cherche à modéliser un « événement » et le « choix » du modèle est déjà fait, même s'il s'agit d'un modèle ouvert que je peux toujours modifier.
+
+
+
+
 
 
 @ Antonios Lagarias
