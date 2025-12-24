@@ -36,7 +36,7 @@ On en arrive alors à deux questions. La première concerne les modalités d’a
 
 [^7]: John Cage, par exemple, s’opposait à l’idée de machines capables de reproduire des enregistrements audio, allant jusqu’à affirmer que « ce serait un acte de charité, y compris envers soi-même, de les briser (les disques commerciaux) chaque fois qu’on en découvre ». Dans le même temps, Cage se montrait très favorable à l’utilisation de machines pour générer du son. Branden W. Joseph, « The Play of Repetition: Andy Warhol’s *Sleep* », *Grey Room*, no 19, 2005, p. 22-53, ici p. 40.
 
-[^8]: Bardiot, Clarisse. *Performing Arts and Digital Humanities: From Traces to Data*. London: ISTE Ltd & John Wiley & Sons, Inc., 2021, 4.
+[^8]: Clarisse Bardiot, *Performing Arts and Digital Humanities: From Traces to Data*. London: ISTE Ltd & John Wiley & Sons, Inc., 2021, 4.
 
 ### Le modèle qui ne pouvait pas tout modéliser
 
@@ -291,7 +291,7 @@ Deuxièmement, et de manière plus générale, le modèle implique la création 
 
 ## Quelques questions finales
 
-En guise de conclusion, voici trois observations finales.
+En guise de conclusion, voici trois observations.
 
 D'abord, la division de l’événement théâtral en trois niveaux (idée / conception, production / planification, représentation / implémentation) correspond à l’état actuel des discours dans le champ des études théâtrales, même si elle reconduit une conception auteur-centrée du théâtre. Sa traduction dans un modèle formel reste toutefois affectée par le manque de spécialisation des vocabulaires contrôlés et des ontologies existantes en ce qui concerne les arts de la scène. Ainsi, l’usage de la relation *influenced_by* pour relier le niveau A (idée de mise en scène) au niveau B (production) peut sembler trop général, mais ce choix vient de l’absence, à ce stade, d’une relation plus adéquate. Cela s’inscrit dans un processus de négociation en cours sur la possibilité d’enrichir le thésaurus Getty et le modèle Linked Art par de nouveaux termes et de nouvelles relations, afin de mieux décrire les arts de la scène.
 
